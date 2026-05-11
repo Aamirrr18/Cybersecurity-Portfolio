@@ -1,7 +1,7 @@
 # 🛡️ Cybersecurity & VAPT Portfolio
 **Mohammad Aamir Siddique** | Aspiring Security Analyst & Threat Hunter
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mohammad-aamir-siddique-b990ab3b5/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](Https://www.linkedin.com/in/mohammad-aamir-siddique-b990ab3b5)
 
 ## 👤 About Me
 I completed my Bachelor of Technology in Mechanical Engineering in 2024, which gave me a strong foundation in analytical problem-solving and systems thinking. I have since pivoted to pursue my passion for digital defense, recently completing the **Advanced Executive Program in Cybersecurity at IIIT Bangalore**. 
